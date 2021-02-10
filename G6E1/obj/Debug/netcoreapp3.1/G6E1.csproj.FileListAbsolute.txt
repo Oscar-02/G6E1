@@ -1,0 +1,13 @@
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.exe
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.deps.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.runtimeconfig.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.dll
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\bin\Debug\netcoreapp3.1\G6E1.pdb
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.AssemblyInfo.cs
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.dll
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.pdb
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 6\G6E1\G6E1\obj\Debug\netcoreapp3.1\G6E1.genruntimeconfig.cache
